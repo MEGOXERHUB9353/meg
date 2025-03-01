@@ -1,0 +1,11 @@
+{
+    "initial_parameters": 2,
+    "initial_threads": "900",
+    "initial_packets": "9",
+    "initial_binary": "megoxer",
+    "max_attack_time": 240,
+    "attack_cooldown": 300,
+    "credit_name": "megoxer",
+    "key_prefix_name": "MEG",
+    "attack_in_process": "Inactive"
+}
